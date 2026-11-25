@@ -1,0 +1,38 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "as_of": "2026-11-24",
+    "past_label_date_units": 3,
+    "today_units": 3,
+    "upcoming_units": 4,
+    "lots": [
+      {
+        "item": "Oat milk",
+        "units": 3,
+        "use_by": "2026-11-23",
+        "days_from_review": -1
+      },
+      {
+        "item": "Bread",
+        "units": 1,
+        "use_by": "2026-11-24",
+        "days_from_review": 0
+      },
+      {
+        "item": "Vegetable soup",
+        "units": 2,
+        "use_by": "2026-11-24",
+        "days_from_review": 0
+      },
+      {
+        "item": "Apples",
+        "units": 4,
+        "use_by": "2026-11-26",
+        "days_from_review": 2
+      }
+    ]
+  }
+}

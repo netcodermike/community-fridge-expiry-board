@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-11-24",
+  "lots": [
+    {
+      "item": "Apples",
+      "units": 4,
+      "use_by": "2026-11-26"
+    },
+    {
+      "item": "Vegetable soup",
+      "units": 2,
+      "use_by": "2026-11-24"
+    },
+    {
+      "item": "Oat milk",
+      "units": 3,
+      "use_by": "2026-11-23"
+    },
+    {
+      "item": "Bread",
+      "units": 1,
+      "use_by": "2026-11-24"
+    }
+  ]
+}
